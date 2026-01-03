@@ -1,4 +1,4 @@
-install streamlit
+# install streamlit
 import streamlit as st
 
 st.set_page_config(page_title="Tic Tac Toe", page_icon="🎮")
@@ -94,4 +94,5 @@ st.markdown("---")
 if st.button("Restart game 🔄"):
     init_game()
     st.experimental_rerun()
+
 
