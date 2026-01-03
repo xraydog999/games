@@ -1,0 +1,4 @@
+streamlit
+ipython
+st-gsheets-connection
+streamlit-drawable-canvas
