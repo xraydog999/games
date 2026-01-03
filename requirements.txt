@@ -1,5 +1,5 @@
 streamlit
 ipython
 st-gsheets-connection
-streamlit
 streamlit-drawable-canvas
+
